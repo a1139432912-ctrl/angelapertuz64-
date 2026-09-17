@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="-[B49(_f5HOp??O|K{?I" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="pmbGV##!ythG=]DUh3t]"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_forever" id="ad5,U0Y8L6v6TTsmMDV]" x="271" y="7"><statement name="HANDLER"><block type="device_print_message" id="]a)BrWHSiHwgSE~U0887"><value name="text"><shadow type="text" id="lHD=Pv:T?F:m6!/Dn#O|"><field name="TEXT">Quiero salchipapa</field></shadow></value></block></statement></block><block type="device_show_leds" id="m:N#vo{z%Fa6O$InjoOk" disabled-reasons="pxt_automatic_disabled" x="-201" y="49"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_button_event" id="bgQGHzX+3]8NeI%+Zmt!" x="14" y="251"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id=";BMDNi;O2UB*FG1aD}Qj"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="6lP3e$%#isk#/S[ys}zn"><field name="i">IconNames.Ghost</field></block></next></block></statement></block></xml>
